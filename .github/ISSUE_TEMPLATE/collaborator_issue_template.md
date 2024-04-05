@@ -2,11 +2,9 @@
 name: External Collaborator Template
 about: Create an issue tagging to appropriately setup mirroring to the public facing GitHub board
 title: "[Collab] ${Name of asset} - ${Type of asset}"
-labels: 
-assignees: ''
 projects: 
-	- Fairy Play
-	- Fairy Play Mirror
+	- what-lights-us/1
+	- what-lights-us/2
 ---
 
 # About
