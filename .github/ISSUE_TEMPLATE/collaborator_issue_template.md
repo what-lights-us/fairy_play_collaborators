@@ -2,9 +2,7 @@
 name: External Collaborator Template
 about: Create an issue tagging to appropriately setup mirroring to the public facing GitHub board
 title: "[Collab] ${Name of asset} - ${Type of asset}"
-projects: 
-	- what-lights-us/1
-	- what-lights-us/2
+projects: ["what-lights-us/1", "what-lights-us/2"]
 ---
 
 # About
