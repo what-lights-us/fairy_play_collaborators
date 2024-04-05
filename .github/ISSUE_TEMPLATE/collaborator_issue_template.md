@@ -4,7 +4,9 @@ about: Create an issue tagging to appropriately setup mirroring to the public fa
 title: "[Collab] ${Name of asset} - ${Type of asset}"
 labels: 
 assignees: ''
-
+projects: 
+	- Fairy Play
+	- Fairy Play Mirror
 ---
 
 # About
