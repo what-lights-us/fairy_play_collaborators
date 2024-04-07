@@ -10,9 +10,9 @@ projects: ["what-lights-us/1", "what-lights-us/2"]
 // Assign yourself as the point of contact
 
 # Assignee
-* **Name: ** 
-* **Email: ** 
-* **Discord: ** 
+* **Name:** 
+* **Email:** 
+* **Discord:** 
 
 # Definition of Done
 * [ ] Lead who is acting as a point of contact has received the completed file and approved it for the project
