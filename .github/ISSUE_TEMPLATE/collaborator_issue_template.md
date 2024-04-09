@@ -9,7 +9,7 @@ projects: ["what-lights-us/1", "what-lights-us/2"]
 // Add a reference image here and delete this line
 // Assign yourself as the point of contact
 
-# Assignee
+# Assigned To
 * **Name:** 
 * **Email:** 
 * **Discord:** 
