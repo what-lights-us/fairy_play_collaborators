@@ -6,8 +6,7 @@ projects: "what-lights-us/fairy_play_collaborators/4"
 labels: "Animation"
 ---
 
-// Assign appropriate project and milestone
-
+<!-- Assign appropriate project and milestone -->
 # About
 ## Expected checkpoints
 As you work on this shot, there are a number of times you'll be expected to check-in and 
@@ -25,12 +24,12 @@ phases of the project board
 			 shot to take next
 
 ## Reference
-// Add a simple GIF of the shot from the animatic for collaborators to have a general
-//  idea of what the shot entails
+<!-- Add a simple GIF of the shot from the animatic for collaborators to have a general
+     idea of what the shot entails --> 
 
 ## File Link
-// Add a link to the where the maya file is stored along side the shot reference and
-//   appropriate supporting resources
+<!-- Add a link to the where the maya file is stored along side the shot reference 
+     and appropriate supporting resources --> 
 
 # Assigned To
 **Name:** 
