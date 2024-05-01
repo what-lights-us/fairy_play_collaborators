@@ -2,9 +2,11 @@
 name: Animation Template
 about: Create a basic issue for tracking work for an animation
 title: "${Scene number}${Shot number} - ${Short description}"
-projects: "what-lights-us/3"
+projects: "what-lights-us/fairy_play_collaborators/4"
 labels: "Animation"
 ---
+
+// Assign appropriate project and milestone
 
 # About
 ## Expected checkpoints
